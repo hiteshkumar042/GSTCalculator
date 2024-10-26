@@ -1,0 +1,15 @@
+body {
+    background-image: url("./images.jpg");
+    background-size:cover;
+    background-position: center;
+  }
+
+.error{
+  color: red;
+  border:2px solid red;
+}
+
+
+.result-container{
+  height: 20px;
+}
